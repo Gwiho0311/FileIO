@@ -20,7 +20,7 @@ public class UsingBufferedReader {
 
         long duration = StopWatch.stop();
         System.out.println(duration + " milsec");
-        
+       
         inputStream.close();
 
 
